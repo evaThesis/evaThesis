@@ -16,7 +16,7 @@ Still interested and learning about native Android, and sometimes about game dev
   - April 2019 - Present
 
 ### What I've build 
-  - Mobile applications
+  - Mobile Applications
     - [My Customer](https://play.google.com/store/apps/details?id=com.pli.mycustomer)
     - [Smart Academy](https://play.google.com/store/apps/details?id=com.smartacademyindonesia)
     - [DOS Attendance](https://play.google.com/store/apps/details?id=dos.dreite.co.id)
